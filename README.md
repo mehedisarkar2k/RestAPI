@@ -7,3 +7,5 @@
 > - This API showing a user data with a user id `get method`
 > - API can delete a user under a user id `delete method`
 > - This api also update a user a with a specific `patch method`
+
+### Check for update adding a new SSH key
